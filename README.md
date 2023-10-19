@@ -14,3 +14,5 @@ Open the Anaconda Prompt command terminal.
 
 ## Presupuestador de tokens / precio
 #### Herramienta para calcular el coste de cada prompt generado
+
+https://github.com/EzequielTartaglia/prompt-engineering-python-openai/blob/main/Presupuestador%20de%20Tokens%20por%20prompt.xlsx
