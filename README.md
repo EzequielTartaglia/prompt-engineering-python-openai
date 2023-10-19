@@ -11,3 +11,6 @@ Open the Anaconda Prompt command terminal.
 3. Install dependencies to be used via pip: pip install openai
 4. Navigate to the directory of your project, for example: cd C:\Users\Usuario\Desktop\Proyectos\prompt-engineering-python-openai
 5. Activate Jupyter Notebook: jupyter notebook
+
+## Presupuestador de tokens / precio
+#### Herramienta para calcular el coste de cada prompt generado
